@@ -1,4 +1,4 @@
-# ChatGPT Desktop App
+# ChatGPT Desktop App (Rust)
 
 Unofficial open source OpenAI ChatGPT desktop app for mac, windows, and linux menubar using tauri & rust.
 
